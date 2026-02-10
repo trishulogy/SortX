@@ -5,7 +5,7 @@
 **High-Performance Sorting Algorithm Visualizer**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-00ff41.svg)](https://opensource.org/licenses/MIT)
-[![Site](https://sort-x-tan.vercel.app/)
+
 
 
 *A cyberpunk-themed, real-time sorting algorithm visualization engine*
@@ -18,7 +18,7 @@
 
 SortX is a high-performance, browser-based sorting algorithm visualizer designed for educational purposes and algorithm analysis. Built with vanilla JavaScript and HTML5 Canvas, it features a distinctive cyberpunk aesthetic with real-time audio feedback, dual-view comparison mode, and comprehensive performance metrics.
 
-**Live Demo:** Open `sortX.html` in any modern browser
+**Live Demo:** Open https://sort-x-tan.vercel.app/ in any modern browser
 
 ---
 
