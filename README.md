@@ -18,7 +18,7 @@
 
 SortX is a high-performance, browser-based sorting algorithm visualizer designed for educational purposes and algorithm analysis. Built with vanilla JavaScript and HTML5 Canvas, it features a distinctive cyberpunk aesthetic with real-time audio feedback, dual-view comparison mode, and comprehensive performance metrics.
 
-**Live Demo:** Open https://sort-x-tan.vercel.app/ in any modern browser
+**Live Demo:** Open [SortX](https://sortx-silk.vercel.app/) in any modern browser
 
 ---
 
